@@ -1,11 +1,20 @@
 
+import  Chai  from "./chai";
+
 
 function App() {
   
 
   return (
+    <>
+    <Chai/>
+    <h3>kya haal chore </h3>
+    
+    
+    
+    </>
   
-   <h1>chai aur vitrrewadsfsdfmsdkleact</h1>
+  
   );
 }
 
