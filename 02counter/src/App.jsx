@@ -7,6 +7,8 @@ function App() {
   
   let [counter, setCounter] = useState(15)
 
+  //ui updation 
+
   // let counter = 6;
 
   const addvalue = function(){
@@ -31,7 +33,7 @@ function App() {
 
      <button onClick={addvalue}>ADD value</button>
      <br />
-    <button onClick={removeValue}>REMOVE value{counter}</button>
+    <button onClick={removeValue}>REMOVE value</button>
 
     {/* <p> footer : {counter}</p> */}
     </>
