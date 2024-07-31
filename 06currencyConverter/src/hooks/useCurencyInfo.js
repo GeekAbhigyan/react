@@ -18,4 +18,4 @@ function useCurrencyinfo(currency){
 
 }
 
-export default useCurrencyinfo
+export  {useCurrencyinfo}
