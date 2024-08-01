@@ -11,6 +11,6 @@ const UserContextProvider = ({children})=> {
         {children}
         </UserContext.Provider>
     )
-}
+} 
 
 export default UserContextProvider
